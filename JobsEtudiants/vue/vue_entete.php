@@ -6,7 +6,7 @@
 
 <nav class="navbar navbar-expand-lg navbar-light bg-light nav">
 
-  <div class="col-1" name="logo">
+  <div class="col-2" name="logo">
     <a class="navbar-brand" href="index.php">
      <img src="images/logo.png">
    </a>
@@ -23,7 +23,7 @@
 </ul>
 </div>
 
-<div class="col-1" name="Espace Connexion">
+<div class="col-2" name="Espace Connexion">
   <a href="vue_connexion">
     <button>Connexion</button>
   </a>
